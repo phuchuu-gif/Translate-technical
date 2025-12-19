@@ -1,0 +1,8 @@
+{
+  "name": "CAD-Lingo Bridge",
+  "description": "A specialized OCR and translation tool for civil engineering software (AutoCAD, Civil 3D, Revit). Converts UI screenshots into 'English (Vietnamese)' technical terminology using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
